@@ -37,7 +37,7 @@ Ikuti langkah-langkah ini untuk menjalankan proyek di server lokal Anda (XAMPP/W
 - **Download ZIP:** Unduh file ZIP proyek ini dan ekstrak ke folder server Anda.
 - **ATAU Git Clone:**
   ```bash
-  git clone [https://github.com/inthemiddleof/tugas-akhir-ppw-4.git](https://github.com/inthemiddleof/tugas-akhir-ppw-4.git)
+  git clone https://github.com/inthemiddleof/tugas-akhir-ppw-4.git
   ```
 - Pindahkan folder proyek ke dalam direktori(bebas) atau diretori `htdocs` (untuk XAMPP).
 
